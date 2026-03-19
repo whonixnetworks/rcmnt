@@ -46,14 +46,14 @@ echo "user_allow_other" | sudo tee -a /etc/fuse.conf
 ### Quick Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/greedy/rcmnt/main/rcmnt -o ~/bin/rcmnt
+curl -fsSL https://raw.githubusercontent.com/whonixnetworks/rcmnt/main/rcmnt -o ~/bin/rcmnt
 chmod +x ~/bin/rcmnt
 ```
 
 Or clone and install:
 
 ```bash
-git clone https://github.com/greedy/rcmnt.git
+git clone https://github.com/whonixnetworks/rcmnt.git
 cd rcmnt
 chmod +x rcmnt
 ./rcmnt --setup
