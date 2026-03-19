@@ -163,3 +163,10 @@ Changes take effect the next time the mount is started or restarted.
 | Systemd Service | `~/.config/systemd/user/rclone-<remote>.service` |
 
 </details>
+
+---
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
